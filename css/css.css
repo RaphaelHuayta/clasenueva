@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: aqua;
+    color: aliceblue;
+    
+}
+h1{
+    text-align: center;
+    padding: 10px;
+}
+img{
+    width: 50%;
+    height: auto;
+    background-position: center;
+}
+@media(max-width: 600px){
+    body{
+        color: aqua;
+    }
+}
